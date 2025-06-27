@@ -1,0 +1,81 @@
+{
+  "destinations": {
+    "Mount_Kenya": {
+      "title": "Mount Kenya",
+      "tagline": "Africa's second highest peak",
+      "images": [
+        "Kenya3.jpeg",
+        "kenya 2.jpeg",
+        "Kenya 1.jpeg"
+      ],
+      "tips": [
+        "Best time to visit: January-February or July-October",
+        "Essential gear: Warm clothing, good hiking boots",
+        "Permits are required for climbing",
+        "Consider acclimatization to avoid altitude sickness"
+      ]
+    },
+    "Maasai_Mara": {
+      "title": "Maasai Mara",
+      "tagline": "The world's greatest wildlife reserve",
+      "heroImage": "masai 3.jpeg",
+      "images": [
+        "masai 3.jpeg",
+        "masai 2.jpeg",
+        "Maasai Mara2.jpeg"
+      ],
+      "tips": [
+        "Great Migration occurs July-October",
+        "Early morning game drives are most rewarding",
+        "Respect wildlife viewing distances",
+        "Visit a Maasai village for cultural experience"
+      ]
+    },
+    "Lamu_Island": {
+      "title": "Lamu Island",
+      "tagline": "A timeless Swahili paradise",
+      "heroImage": "Lamu 1.jpeg",
+      "images": [
+        "Lamu 1.jpeg",
+        "Lamu 4.jpeg",
+        "Lamu 2.jpeg"
+      ],
+      "tips": [
+        "No cars on the island - transportation is by donkey or boat",
+        "Dress modestly as it's a conservative Muslim community",
+        "Try Swahili dishes like biryani and samaki wa kupaka",
+        "Visit during Lamu Cultural Festival for special events"
+      ]
+    },
+    "Lake_Nakuru": {
+      "title": "Lake Nakuru",
+      "tagline": "Birdwatcher's paradise with flamingos",
+      "heroImage": "nakuru1.jpeg",
+      "images": [
+        "nakuru1.jpeg",
+        "Nakuru2.jpeg",
+        "Nakuru3.jpeg"
+      ],
+      "tips": [
+        "Best viewing hours are early morning",
+        "Look for rhinos in the park",
+        "Visit the nearby Menengai Crater"
+      ]
+    },
+    "Diani_Beach": {
+      "title": "Diani Beach",
+      "tagline": "Pristine white sands of the Kenyan coast",
+      "heroImage": "Diani2.jpeg",
+      "images": [
+        "Diani2.jpeg",
+        "Diani1.jpeg",
+        "Diani3.jpeg"
+      ],
+      "tips": [
+        "Try kitesurfing in the trade winds",
+        "Visit the nearby Shimba Hills National Reserve",
+        "Enjoy fresh seafood at beachfront restaurants"
+      ]
+    }
+  }
+}
